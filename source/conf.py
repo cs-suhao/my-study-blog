@@ -55,6 +55,10 @@ source_suffix = {
     '.md': 'markdown'
 }
 
+source_parsers = {
+    '.md': 'recommonmark.parser.CommonMarkParser',
+}
+
 math_number_all = True
 
 # -- Options for HTML output -------------------------------------------------
