@@ -22,7 +22,7 @@ Welcome to cs.suhao's blog's documentation!
    papers/index
    reading/index
    movie/index
-   cook/index
+   .. cook/index
    .. about
 
 
