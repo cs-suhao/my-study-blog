@@ -19,9 +19,9 @@ Welcome to cs.suhao's blog's documentation!
    tools/index
    algorithm/index
    faceview/index
-   papers/index
-   reading/index
-   movie/index
+   .. papers/index
+   .. reading/index
+   .. movie/index
    .. cook/index
    .. about
 
